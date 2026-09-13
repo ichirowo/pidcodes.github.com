@@ -1,7 +1,7 @@
 ---
 layout: pid
 title: USB-I2C Bridge Board
-owner: ichirowo
+owner: FLINT
 license: MIT License
 site: https://github.com/ichirowo/USB-I2C-Bridge-Board
 source: https://github.com/ichirowo/USB-I2C-Bridge-Board
